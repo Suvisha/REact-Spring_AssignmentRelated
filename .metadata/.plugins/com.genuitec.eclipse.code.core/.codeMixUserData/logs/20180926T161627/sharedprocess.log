@@ -1,0 +1,39 @@
+[2018-09-26 16:16:33.701] [sharedprocess] [info] main {"machineId":"6866d45cda2c484d8be5e676d19d2f92c3303716f5003dad3ce101948c1e2251"}
+[2018-09-26 16:16:33.741] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-26 16:16:33.788] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-26 16:16:34.506] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-26 16:16:34.513] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-26 16:16:34.600] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-26 16:16:34.638] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-26 16:16:34.651] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-26 16:16:34.778] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-26 16:16:34.801] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-26 16:16:36.128] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-26 16:16:36.138] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-26 16:16:36.146] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-26 16:16:36.146] [sharedprocess] [info] Installing the extension: codemix.react-0.9.0
+[2018-09-26 16:16:36.169] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-26 16:16:36.380] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-26 16:16:36.848] [sharedprocess] [info] Extracted extension to C:\Users\Suvisha.KV\.vscode\extensions\.codemix.react-0.9.0: codemix.react-0.9.0
+[2018-09-26 16:16:36.865] [sharedprocess] [info] Renamed to C:\Users\Suvisha.KV\.vscode\extensions\codemix.react-0.9.0
+[2018-09-26 16:16:36.865] [sharedprocess] [info] Installation completed. codemix.react-0.9.0
+[2018-09-26 16:16:36.898] [sharedprocess] [info] Successfully installed the extension: codemix.react-0.9.0
+[2018-09-26 16:16:36.913] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-26 16:16:36.948] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-26 16:16:36.975] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-26 16:16:37.024] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-26 16:16:37.089] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-26 16:16:42.419] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-26 16:16:42.427] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-26 16:16:42.428] [sharedprocess] [info] Installing the extension: xabikos.reactsnippets-2.1.0
+[2018-09-26 16:16:42.440] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-26 16:16:42.456] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-26 16:16:42.506] [sharedprocess] [info] Extracted extension to C:\Users\Suvisha.KV\.vscode\extensions\.xabikos.reactsnippets-2.1.0: xabikos.reactsnippets-2.1.0
+[2018-09-26 16:16:42.507] [sharedprocess] [info] Renamed to C:\Users\Suvisha.KV\.vscode\extensions\xabikos.reactsnippets-2.1.0
+[2018-09-26 16:16:42.507] [sharedprocess] [info] Installation completed. xabikos.reactsnippets-2.1.0
+[2018-09-26 16:16:42.508] [sharedprocess] [info] Successfully installed the extension: xabikos.reactsnippets-2.1.0
+[2018-09-26 16:16:42.520] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-26 16:16:42.537] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-26 16:16:42.554] [sharedprocess] [info] Scanned system extensions: 72
+[2018-09-26 16:16:42.621] [sharedprocess] [info] Scanned user extensions: 17
+[2018-09-26 16:16:42.637] [sharedprocess] [info] Scanned system extensions: 72
